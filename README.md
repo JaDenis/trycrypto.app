@@ -1,2 +1,2 @@
-# trycrypto.app
+# https://trycrypto.app
 tryCrypto server
